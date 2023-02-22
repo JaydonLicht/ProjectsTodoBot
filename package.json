@@ -1,0 +1,14 @@
+{
+  "name": "projectstodobot",
+  "version": "1.0.0",
+  "description": "A bot that will send you random project todo from this site - \"https://shpp.notion.site\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julia Pirogova, Roman Shmelev, Bogdan Grishin",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.11.2"
+  }
+}
